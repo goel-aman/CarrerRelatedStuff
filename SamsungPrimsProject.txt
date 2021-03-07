@@ -1,0 +1,7 @@
+Used Conv-Tasnet (deep neural network) to remove environmental sounds from voice data. (basically noise cancellation)
+
+We got an efficiency of 15.5 SDR (Signal To Distortion Ratio)
+
+
+The project in future is going to be used to remove environmental voices when a person is talking on mobile phone.
+
