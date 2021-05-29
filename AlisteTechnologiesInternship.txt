@@ -1,0 +1,4 @@
+To build angular web interfaces with the help of figma
+design provided by the company. (worked on
+Enterprise Resource Planning Software). To make component as much reusable as possible. Worked with angular material to create better UI. Learned about the importance of naming convention
+in industry. Learned about nested routing in angular.
